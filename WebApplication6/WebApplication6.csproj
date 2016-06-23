@@ -67,6 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\TestString.pubxml" />
+    <None Include="Properties\PublishProfiles\TestWebAPI%28api-default-south-india%29.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
